@@ -1,0 +1,12 @@
+{
+  "Option": {
+    "id": "int",
+    "name": "string",
+    "type": "string",
+    "choices": "string[]"
+  },
+  "Category": {
+    "id": "int",
+    "name": "string"
+  }
+}
